@@ -2,7 +2,6 @@
 
 ## Overview
 LibraryBookAutoRenewal is an automated tool designed to streamline the process of renewing library books. Utilizing Python and Selenium, this application automates the interaction with library systems to extend the loan periods of borrowed books, ensuring timely renewals and helping users avoid overdue fines.
-There are two versions one for windows with Microsoft edge web driver not yet implemented the auto executable to startup and one for linux where everything is automated.
 ## Features
 - **Automated Renewal**: Automatically renews library books on or near their due dates.
 - **Selenium Integration**: Leverages the power of Selenium for web automation to interact with online library systems.
